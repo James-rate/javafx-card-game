@@ -1,0 +1,15 @@
+# Generated build output
+build/
+out/
+target/
+*.class
+
+# Local editor and tool state
+.idea/
+.vscode/
+*.iml
+.local/
+.env
+*.log
+.DS_Store
+Thumbs.db
